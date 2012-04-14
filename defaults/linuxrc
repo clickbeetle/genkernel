@@ -764,4 +764,4 @@ echo
 exec /bin/bash
 exec /bin/sh
 exec /bin/ash
-#exec sh
+exec sh
